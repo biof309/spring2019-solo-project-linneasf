@@ -12,7 +12,7 @@ Description
 A longer description of your project goes here...
 
 
-Notes
+Notes notes notes 
 =====
 
 This project has been set up using PyScaffold 3.1. For details and usage
